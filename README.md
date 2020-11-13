@@ -29,19 +29,20 @@ Task #3: System Glitch
 This code is very similar to the code for task #2. The only thing is that we swtich log ins and log outs.
 In this code we go through the same steps as before. 
 We define our variables, log in and log out and loop through the file to search for the number of times each one occurs. 
-
 In this code more log outs than log ins indicate a system glitch whereas in task #2 more log ins than log outs were irresponsible behavior. 
+
+Task #4
 
 
 
 ## Errors: 
 Error 1:
-One of the errors we had was with task #4. At first, we could only print a list of all the emails and counted the number of emails. The code also printed the first half of the email address instead of just the domain. To fix this we.. 
+One of the errors we had was with task #4. At first, we could only print a list of all the emails and counted the number of emails. The code also printed the first half of the email address instead of just the domain. To fix this we used the res function. 
 
 Error 2: A second error we had was with Task #3. We understood that all we had to do was do the opposite of taks #2. However, the code was not reporting glitches. 
 To fix this error, at the bottom we switch Login > Logout with Logout > Login. 
 
-Error 3: One error we had is that 
+Error 3: One error we had is that our otherlist() was not opening so we changed it to append in order to modify the old list. 
 
 
 ## Flowcharts
