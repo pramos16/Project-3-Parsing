@@ -35,6 +35,16 @@ In this code more log outs than log ins indicate a system glitch whereas in task
 
 
 ## Errors: 
+Error 1:
+One of the errors we had was with task #4. At first, we could only print a list of all the emails and counted the number of emails. The code also printed the first half of the email address instead of just the domain. To fix this we.. 
+
+Error 2: A second error we had was with Task #3. We understood that all we had to do was do the opposite of taks #2. However, the code was not reporting glitches. 
+To fix this error, at the bottom we switch Login > Logout with Logout > Login. 
+
+Error 3: 
+
+
+Error 3: 
 
 
 ## Flowcharts
