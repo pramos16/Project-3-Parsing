@@ -25,5 +25,17 @@ Phrases such as for line in ___ makes it easy to sort through each line and find
 For this code we had to make sure to define multiple variables such as log in and log out using operators.
 Condtional statements such as "If" and "Else" execute statements looking for whether the conditions satisfy the requirements and print a response. 
 
- ## Flowcharts
+Task #3: System Glitch
+This code is very similar to the code for task #2. The only thing is that we swtich log ins and log outs.
+In this code we go through the same steps as before. 
+We define our variables, log in and log out and loop through the file to search for the number of times each one occurs. 
+
+In this code more log outs than log ins indicate a system glitch whereas in task #2 more log ins than log outs were irresponsible behavior. 
+
+
+
+## Errors: 
+
+
+## Flowcharts
  T
