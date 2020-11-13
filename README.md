@@ -32,7 +32,7 @@ We define our variables, log in and log out and loop through the file to search 
 In this code more log outs than log ins indicate a system glitch whereas in task #2 more log ins than log outs were irresponsible behavior. 
 
 Task #4
-
+For task 4 we used the re function and file handling. We used loops to search the text for "@" and split it from the first half of the emails. 
 
 
 ## Errors: 
